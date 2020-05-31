@@ -1,0 +1,2 @@
+W przypadku braku instalacji biblioteki SFML:
+sudo apt-get install libsfml-dev
